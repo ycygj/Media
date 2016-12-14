@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/base_tvcctvdialogTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dip"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="16sp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/base_pager"
+        android:layout_width="fill_parent"
+        android:layout_height="250dip"
+        android:layout_margin="8dip" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:gravity="center" >
+
+        <ToggleButton
+            android:id="@+id/tbFav"
+            android:layout_margin="5dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/base_fav_selector"
+            android:textOff=""
+            android:textOn="" />
+
+        <LinearLayout
+            android:id="@+id/llSplot"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/imgSplot1"
+                android:layout_width="10dip"
+                android:layout_height="10dip"
+                android:layout_margin="10dip"
+                android:src="@drawable/base_ic_pager_index_f2" />
+
+            <ImageView
+                android:id="@+id/imgSplot2"
+                android:layout_width="10dip"
+                android:layout_height="10dip"
+                android:layout_margin="10dip"
+                android:src="@drawable/base_ic_pager_index_f1" />
+
+            <ImageView
+                android:id="@+id/imgSplot3"
+                android:layout_width="10dip"
+                android:layout_height="10dip"
+                android:layout_margin="10dip"
+                android:src="@drawable/base_ic_pager_index_f1" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnRefresh"
+            android:layout_margin="5dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/base_refresh_selector" />
+    </LinearLayout>
+
+</LinearLayout>

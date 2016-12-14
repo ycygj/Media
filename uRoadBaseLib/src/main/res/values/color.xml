@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="indicator.title">#1fb3f8</color>
+    <color name="blue">#0000FF</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

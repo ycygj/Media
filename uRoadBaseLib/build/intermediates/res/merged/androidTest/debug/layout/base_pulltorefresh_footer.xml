@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/topLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:gravity="center_vertical" 
+     android:paddingBottom="@dimen/header_footer_top_bottom_padding"
+    android:paddingLeft="@dimen/header_footer_left_right_padding"
+    android:paddingRight="@dimen/header_footer_left_right_padding"
+    android:paddingTop="@dimen/header_footer_top_bottom_padding"
+    >
+
+   
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ProgressBar
+            android:id="@+id/pbLoading"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+             />
+
+        <TextView
+            android:id="@+id/tvLoadMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="加载更多"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+</RelativeLayout>

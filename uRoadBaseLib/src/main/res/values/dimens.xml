@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="base_dialog_msg">18sp</dimen>
+    <dimen name="base_shadow_width">15dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">25dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">10dp</dimen>
+    <dimen name="header_footer_internal_padding">20dp</dimen>
+    <dimen name="base_weather_des">12dp</dimen>
+    
+    <dimen name="space_1">1dip</dimen>
+    <dimen name="space_2">2dip</dimen>
+    <dimen name="space_3">3dip</dimen>
+    <dimen name="space_5">5dip</dimen>
+    <dimen name="font_size_xxxxxlarge">26sp</dimen>
+    <dimen name="font_size_xxxxlarge">24sp</dimen>
+    <dimen name="font_size_xxxlarge">22sp</dimen>
+    <dimen name="font_size_xxlarge">20sp</dimen>
+    <dimen name="font_size_xlarge">18sp</dimen>
+    <dimen name="font_size_large">16sp</dimen>
+    <dimen name="font_size_normal">14sp</dimen>
+    <dimen name="font_size_default">12sp</dimen>
+    <dimen name="font_size_small">10sp</dimen>
+    <dimen name="font_size_msmall">8sp</dimen>
+    <dimen name="space_size_small">5dip</dimen>
+    <dimen name="space_size_default">10dip</dimen>
+    <dimen name="space_size_normal">15dip</dimen>
+    <dimen name="space_size_large">20dip</dimen>
+    <dimen name="space_size_xlarge">30dip</dimen>
+    <dimen name="space_size_xxlarge">40dip</dimen>
+    <dimen name="space_size_xxxlarge">50dip</dimen>
+    <dimen name="space_size_xxxxlarge">80dip</dimen>
+    <dimen name="space_size_xxxxxlarge">90dip</dimen>
+    <dimen name="space_50">50dip</dimen>
+    
+</resources>

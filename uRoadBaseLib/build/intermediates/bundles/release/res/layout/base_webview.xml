@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    
+
+    <ProgressBar
+        android:id="@+id/pbLoading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+    
+    <LinearLayout 
+        android:id="@+id/llBottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:padding="@dimen/space_size_small"
+        android:gravity="center_vertical"
+        android:background="#F6EAEC"
+        android:visibility="gone">
+        
+        <Button 
+            android:id="@+id/btn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="上一页"
+            android:layout_marginRight="@dimen/space_size_default"/>
+        
+        <Button 
+            android:id="@+id/btn2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="下一页"
+            android:layout_marginRight="@dimen/space_size_default"/>
+        
+        <Button 
+            android:id="@+id/btn3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="刷新"
+            android:layout_marginRight="@dimen/space_size_default"/>
+    </LinearLayout>
+    
+    <View 
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#e8e8e8"
+        android:layout_above="@+id/llBottom"
+        android:visibility="gone"/>
+    
+    <WebView
+        android:id="@+id/webtrafficnews"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:layout_above="@+id/view"/>
+    
+    <com.ant.liao.GifView
+        android:id="@+id/img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:enabled="false" 
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+
+</RelativeLayout>

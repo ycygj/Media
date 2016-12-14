@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btnItem"
+    android:gravity="center"
+    android:textColor="@android:color/black"
+    android:layout_width="match_parent"
+    android:layout_height="50dip" 
+    android:background="@drawable/base_btn_style_alert_dialog_button"
+    android:textStyle="bold" >
+
+</TextView>

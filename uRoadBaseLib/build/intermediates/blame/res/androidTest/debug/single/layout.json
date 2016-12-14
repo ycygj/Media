@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_pinned_listview.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\view_pinned_listview.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_update_notification_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_update_notification_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_button.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_button.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_iosdialog.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_iosdialog.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_cctvfragment_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_cctvfragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_item_cctv.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\view_item_cctv.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_pulltolistview.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_pulltolistview.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_loading_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_gridview_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_gridview_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_framelayout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_framelayout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_fragment_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\title_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\title_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_pulltorefresh_footer.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_pulltorefresh_footer.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_newpulltorefreshlistview.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_newpulltorefreshlistview.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_item.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_pulltogridview.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_pulltogridview.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_webview.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_webview.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_memory.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_memory.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_loadfailed_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_loadfailed_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cusprogressdialoglayout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\cusprogressdialoglayout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_textview.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_textview.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_pop_cctv_showimage_1.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_pop_cctv_showimage_1.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_listview.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_listview.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_imageview.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_imageview.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_slidingmenu_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_slidingmenu_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_popuwindow_halfscreen.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_popuwindow_halfscreen.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_pop_cctv_showimage.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_pop_cctv_showimage.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_cctv_dialog.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_cctv_dialog.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_main_activity.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_main_activity.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_loadnodata_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_loadnodata_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_weather_layout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_weather_layout.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_pulltorefresh_header.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_pulltorefresh_header.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\view_welcome.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\view_welcome.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\base_slidingmenu_rightlayout.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\layout\\base_slidingmenu_rightlayout.xml"
+    }
+]

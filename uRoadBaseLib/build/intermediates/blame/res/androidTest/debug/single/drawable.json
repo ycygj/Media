@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_fav_selector.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_fav_selector.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_cctvdialog_bg.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_cctvdialog_bg.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_btn_style_alert_dialog_cancel.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_memory_white.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_memory_white.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_green_tab_indicator.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_green_tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_btn_back_selector.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_btn_back_selector.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_sliding_shadow.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_sliding_shadow.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\splash_button_style.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\splash_button_style.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_btn_blue_selector.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_btn_blue_selector.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_iosdialog.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_iosdialog.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_refresh_selector.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_refresh_selector.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\delete_selector.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\delete_selector.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\white_tab_indicator.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\white_tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_bg_uroadimge.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_bg_uroadimge.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_memory_bg.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_memory_bg.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_btn_style_alert_dialog_button.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_btn_style_alert_dialog_button.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\base_sliding_shadowright.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\base_sliding_shadowright.xml"
+    }
+]

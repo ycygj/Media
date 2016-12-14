@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_slide_out_to_top.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_dialog_exit.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_dialog_exit.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_pop_show.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_pop_show.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_pop_hide.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_pop_hide.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_push_bottom_in.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_push_left_in.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_push_left_in.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_slide_in_from_top.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_confirmdialog_modal_in.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_confirmdialog_modal_in.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_dialog_enter.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_dialog_enter.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_push_right_out.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_push_right_out.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_slide_in_from_bottom.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_confirmdialog_modal_out.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_confirmdialog_modal_out.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_push_bottom_out.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_push_right_in.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_push_right_in.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_slide_out_to_bottom.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\base_push_left_out.xml",
+        "source": "D:\\Media\\uRoadBaseLib\\build\\intermediates\\bundles\\debug\\res\\anim\\base_push_left_out.xml"
+    }
+]

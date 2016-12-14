@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/base_main_relative"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/toplayout"
+        layout="@layout/title_layout" />
+
+    <FrameLayout
+        android:id="@+id/base_ld_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toplayout"
+        android:visibility="gone" >
+
+        <include layout="@layout/base_loading_layout" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/base_lf_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toplayout"
+        android:visibility="gone" >
+
+        <include layout="@layout/base_loadfailed_layout" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/base_ln_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toplayout"
+        android:visibility="gone" >
+
+        <include layout="@layout/base_loadnodata_layout" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/base_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toplayout" >
+    </FrameLayout>
+
+</RelativeLayout>

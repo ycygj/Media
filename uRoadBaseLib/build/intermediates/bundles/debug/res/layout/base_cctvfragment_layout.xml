@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/base_bg_uroadimge"
+        android:padding="2dip"
+        android:layout_height="match_parent" >
+
+        <com.uroad.widget.image.UroadImageView
+            android:id="@+id/cImageView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false" >
+        </com.uroad.widget.image.UroadImageView>
+
+        <ImageView
+            android:id="@+id/imgDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|right"
+            android:src="@drawable/base_close_btn"
+            android:visibility="gone" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tvSnapDescrition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@android:color/white" 
+        android:layout_marginTop="@dimen/space_size_small"
+        android:textSize="@dimen/font_size_normal"
+        android:clickable="false"/>
+
+</LinearLayout>
